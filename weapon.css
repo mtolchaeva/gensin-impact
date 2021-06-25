@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+img{
+height: 240px;
+width: 150px;
+}
+
+main{
+
+background:url("https://pbs.twimg.com/media/EyN7d9WUYAIlTwE.jpg:large")
+
+}
+
+h1{
+text-align: center;
+}
