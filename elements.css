@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(10, 35, 82);
+}
+
+img {
+
+height: 510px;
+width: 480px;
+
+}
+h1{
+text-align: center;
+color:white;
+}
+p {
+ color: white;
+}
