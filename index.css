@@ -5,6 +5,7 @@
 
 body {
     background-color: #90c6ba;
+    font-family: segoe ui;
 }
 
 header {
@@ -29,14 +30,12 @@ main {
 
 .k1 p{
     text-align: left;
-    font-family: segoe ui;
     color: #4a6d65;
 
 }
 
 .k1 h2{
     text-align: left;
-    font-family: segoe ui;
     color: #4a6d65;
 
 }
@@ -46,9 +45,6 @@ main {
     width: 400px;
 }
 
-.img1 {
-    float: left;
-}
 
 .vk {
     border: 3px dashed #639b90;
@@ -56,4 +52,10 @@ main {
     color: #346357;
     padding: 7px;
     border-radius: 20px;
+}
+
+.img {
+    position: relative;
+    left: 420px;
+    bottom: 220px;
 }
