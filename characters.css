@@ -1,0 +1,367 @@
+.log {
+    width: 150px;
+    height: 70px;
+}
+
+body {
+    background-color: #90c6ba;
+    font-family: segoe ui;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+    background-color: #639b90;
+}
+
+.nav_a {
+    border: 5px dashed #659b90;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    color: #346357;
+    background-color: #6da59a;
+}
+
+.vk {
+    border: 3px dashed #458175;
+    background-color: #6da59a;
+    color: #346357;
+    padding: 7px;
+    border-radius: 20px;
+    position: relative;
+    top: 25px;
+}
+
+footer {
+    background-color: #40a38e;
+    width: 100%;
+    height: 70px;
+}
+
+.traveler {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+}
+
+.traveler img {
+    height: 170px;
+    padding-left: 20px;
+}
+.h41 {
+    text-align: center;
+    color: #346357;
+}
+
+.p1 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.traveler:hover{
+    transition: 1s bakground ease-out;
+    background-color: #85b8ae;
+}
+
+.img2 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.venty {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h42 {
+    text-align: center;
+    color: #346357;
+}
+
+.p2 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.venty:hover{
+    transition: 1s bakground ease-out;
+    background-color: #75d1bf;
+}
+
+.img3 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Sucrose {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h43 {
+    text-align: center;
+    color: #346357;
+}
+
+.p3 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Sucrose:hover{
+    transition: 1s bakground ease-out;
+    background-color: #75d1bf;
+}
+
+.img4 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.dilyuk {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h44 {
+    text-align: center;
+    color: #346357;
+}
+
+.p4 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.dilyuk:hover{
+    transition: 1s bakground ease-out;
+    background-color: #d68e8e;
+}
+
+.img5 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Amber {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h45 {
+    text-align: center;
+    color: #346357;
+}
+
+.p5 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Amber:hover{
+    transition: 1s bakground ease-out;
+    background-color: #d68e8e;
+}
+
+.img6 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Ganyu {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h46 {
+    text-align: center;
+    color: #346357;
+}
+
+.p6 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Ganyu:hover{
+    transition: 1s bakground ease-out;
+    background-color: #c3ddf5;
+}
+
+.img7 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Kaeya {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h47 {
+    text-align: center;
+    color: #346357;
+}
+
+.p7 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Kaeya:hover{
+    transition: 1s bakground ease-out;
+    background-color: #c3ddf5;
+}
+
+.img8 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Tartaglia {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h48 {
+    text-align: center;
+    color: #346357;
+}
+
+.p8 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Tartaglia:hover{
+    transition: 1s bakground ease-out;
+    background-color: #84b3df;
+}
+
+.img9 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Barbara {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h49 {
+    text-align: center;
+    color: #346357;
+}
+
+.p9 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Barbara:hover{
+    transition: 1s bakground ease-out;
+    background-color: #84b3df;
+}
+
+.img0 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Zhongli {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h40 {
+    text-align: center;
+    color: #346357;
+}
+
+.p0 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Zhongli:hover{
+    transition: 1s bakground ease-out;
+    background-color: #d1ac75;
+}
+
+.img10 {
+    width: 120px;
+    height: 170px;
+    padding-left: 20px;
+}
+
+.Ningguang {
+    margin: 40px;
+    border: 4px double #5e9881;
+    padding: 10px;
+    width: 180px;
+    display: inline-block;
+}
+
+.h410 {
+    text-align: center;
+    color: #346357;
+}
+
+.p10 {
+    text-align: center;
+    color: #346357;
+    font-size: 15px;
+}
+
+.Ningguang:hover{
+    transition: 1s bakground ease-out;
+    background-color: #d1ac75;
+}
