@@ -39,39 +39,6 @@ footer {
     height: 70px;
 }
 
-.traveler {
-    margin: 40px;
-    border: 4px double #5e9881;
-    padding: 10px;
-    width: 180px;
-}
-
-.traveler img {
-    height: 170px;
-    padding-left: 20px;
-}
-.h41 {
-    text-align: center;
-    color: #346357;
-}
-
-.p1 {
-    text-align: center;
-    color: #346357;
-    font-size: 15px;
-}
-
-.traveler:hover{
-    transition: 1s bakground ease-out;
-    background-color: #85b8ae;
-}
-
-.img2 {
-    width: 120px;
-    height: 170px;
-    padding-left: 20px;
-}
-
 .venty {
     margin: 40px;
     border: 4px double #5e9881;
